@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Инвентаризация</string>
+    <string name="test_activity"></string>
+    <string name="simple_open">Открыть файл</string>
+    <string name="save_file">Сохранить файл</string>
+
+</resources>
